@@ -1,0 +1,16 @@
+table{
+    border-spacing: 0.5rem;
+    width: 100%;
+}
+.first{
+    background: rgb(218, 238, 212);
+}
+.second{
+    background: rgb(211, 233, 245);
+}
+.third{
+    background: rgb(252, 246, 221);
+}
+.fourth{
+    background:rgb(243, 217, 217);
+}
